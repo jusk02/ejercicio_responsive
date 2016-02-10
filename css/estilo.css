@@ -39,7 +39,25 @@ color: white;
   left: 200px;
   width: 75%;
 
+}
+.formulario
+{
+  clear: both;
+  font-family: "arial";
+  text-align: left;
+  position: relative;
+  left: 190px;
+}
 
+form
+{
+  margin-bottom: 20px;
+}
+
+form .textos-form input[type='text'] ,form .textos-area
+{
+border :1px solid #ccc;
+width: 800px;
 }
 .contenido
 {
