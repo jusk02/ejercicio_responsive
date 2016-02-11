@@ -20,6 +20,7 @@ left:-36px;
 float:left;
 text-decoration: none;
 color: white;
+width: 100%;
 }
 .navigation li
 {
@@ -35,8 +36,8 @@ color: white;
 {
   font-family: "Verdana";
   text-align: left;
-  position: absolute;
-  left: 200px;
+  position: relative;
+  left: 20px;
   width: 75%;
 
 }
@@ -72,7 +73,7 @@ display: inline-block;
 }
 
 
-@media only screen and (max-width: 480px)
-{
+
+@media only screen and (max-width: 480px) {
   /*estilo para este tamanio*/
 }
